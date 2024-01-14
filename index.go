@@ -3,8 +3,8 @@ package main
 import ("fmt")
 
 func main ()  {
-	var name string = "GOLANG"
-	fmt.Println("Hello ",name)
+	var name1 string = "GOLANG"
+	fmt.Println("Hello ",name1)
 
 }
 
